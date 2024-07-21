@@ -1,0 +1,1 @@
+This project is a test of a chatbot to run an interview using a case study.  It uses Streamlit as the front end.
